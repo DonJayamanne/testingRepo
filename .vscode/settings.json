@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "${workspaceFolder}/.env36/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.unitTest.pyTestArgs": [
+        "tests"
+    ],
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.nosetestArgs": [
+        "tests"
+    ],
+    "python.unitTest.nosetestsEnabled": true
+}
